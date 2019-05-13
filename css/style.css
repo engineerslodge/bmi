@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: sans-serif serif;
+
+}
+
+/* General*/ 
+
+.container{
+	margin: 40px auto 20px;
+	width: 50%;
+}
+
+
+.margin-auto{
+	padding-top: 10px 0 0 0;
+	margin: auto;
+}
+
+.padding-top{
+	padding: 10px;
+}
+
+.profile-img{
+	margin: auto;
+	width: 200px;
+	height: 200px;
+	border: brown 5px solid;
+}
+
+.p-details{
+    width: 50%;
+    height: 100%;
+}
+
+.select-user{
+	width: 30%;
+	height: 15%;
+	margin: 30px 50%;
+}
+
+option{
+	height: 100px;
+}
+
+.bio-data p{
+	margin: 10px 0;
+}
+
+.result{
+	background: red;
+	width: 150px;
+	height: 150px;
+}
+
+.p-float-left{
+	width: 50%;
+	float: left;
+    box-sizing: border-box;
+
+}
+
+.p-float-right{
+	width: 50%;
+	float: right;
+    box-sizing: border-box;
+    
+}
+
+
+button.btn{
+	width: 50%;
+	margin: auto;
+}
